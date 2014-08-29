@@ -8,6 +8,9 @@
 
 #import <UIKit/UIKit.h>
 
+@class STTwitterAPI;
+
 @interface HRViewController : UIViewController
+
 
 @end
